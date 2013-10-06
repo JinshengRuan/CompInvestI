@@ -8,7 +8,7 @@ import QSTK.qstkutil.DataAccess as da
 import QSTK.qstkutil.tsutil as tsu
 import QSTK.qstkstudy.EventProfiler as ep
 
-eventAmount = 5.0
+eventAmount = 8.0
 orderFile = "orders.csv"
 symbols = "sp5002012"
 
